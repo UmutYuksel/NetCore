@@ -1,0 +1,14 @@
+/Users/iremericek/NetCore/NetCore.Data/obj/Debug/net8.0/NetCore.Data.csproj.AssemblyReference.cache
+/Users/iremericek/NetCore/NetCore.Data/obj/Debug/net8.0/NetCore.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iremericek/NetCore/NetCore.Data/obj/Debug/net8.0/NetCore.Data.AssemblyInfoInputs.cache
+/Users/iremericek/NetCore/NetCore.Data/obj/Debug/net8.0/NetCore.Data.AssemblyInfo.cs
+/Users/iremericek/NetCore/NetCore.Data/obj/Debug/net8.0/NetCore.Data.csproj.CoreCompileInputs.cache
+/Users/iremericek/NetCore/NetCore.Data/bin/Debug/net8.0/NetCore.Data.deps.json
+/Users/iremericek/NetCore/NetCore.Data/bin/Debug/net8.0/NetCore.Data.runtimeconfig.json
+/Users/iremericek/NetCore/NetCore.Data/bin/Debug/net8.0/NetCore.Data.dll
+/Users/iremericek/NetCore/NetCore.Data/bin/Debug/net8.0/NetCore.Data.pdb
+/Users/iremericek/NetCore/NetCore.Data/obj/Debug/net8.0/NetCore.Data.dll
+/Users/iremericek/NetCore/NetCore.Data/obj/Debug/net8.0/refint/NetCore.Data.dll
+/Users/iremericek/NetCore/NetCore.Data/obj/Debug/net8.0/NetCore.Data.pdb
+/Users/iremericek/NetCore/NetCore.Data/obj/Debug/net8.0/NetCore.Data.genruntimeconfig.cache
+/Users/iremericek/NetCore/NetCore.Data/obj/Debug/net8.0/ref/NetCore.Data.dll

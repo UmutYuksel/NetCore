@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore.Data", "NetCore.Data\NetCore.Data.csproj", "{2EDEED73-93A2-45DD-88D0-95B186575A2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore.Business", "NetCore.Business\NetCore.Business.csproj", "{6FBBA624-3881-47F7-91AF-D11BC8C4E3C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore.WebApi", "NetCore.WebApi\NetCore.WebApi.csproj", "{D4261CB2-90C7-41DD-A46C-9B1487F8C8EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EDEED73-93A2-45DD-88D0-95B186575A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EDEED73-93A2-45DD-88D0-95B186575A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EDEED73-93A2-45DD-88D0-95B186575A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EDEED73-93A2-45DD-88D0-95B186575A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FBBA624-3881-47F7-91AF-D11BC8C4E3C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBBA624-3881-47F7-91AF-D11BC8C4E3C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBBA624-3881-47F7-91AF-D11BC8C4E3C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBBA624-3881-47F7-91AF-D11BC8C4E3C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4261CB2-90C7-41DD-A46C-9B1487F8C8EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4261CB2-90C7-41DD-A46C-9B1487F8C8EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4261CB2-90C7-41DD-A46C-9B1487F8C8EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4261CB2-90C7-41DD-A46C-9B1487F8C8EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

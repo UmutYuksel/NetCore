@@ -1,0 +1,15 @@
+/Users/iremericek/NetCore/NetCore.Business/bin/Debug/net8.0/NetCore.Business.deps.json
+/Users/iremericek/NetCore/NetCore.Business/bin/Debug/net8.0/NetCore.Business.dll
+/Users/iremericek/NetCore/NetCore.Business/bin/Debug/net8.0/NetCore.Business.pdb
+/Users/iremericek/NetCore/NetCore.Business/bin/Debug/net8.0/NetCore.Data.dll
+/Users/iremericek/NetCore/NetCore.Business/bin/Debug/net8.0/NetCore.Data.pdb
+/Users/iremericek/NetCore/NetCore.Business/obj/Debug/net8.0/NetCore.Business.csproj.AssemblyReference.cache
+/Users/iremericek/NetCore/NetCore.Business/obj/Debug/net8.0/NetCore.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iremericek/NetCore/NetCore.Business/obj/Debug/net8.0/NetCore.Business.AssemblyInfoInputs.cache
+/Users/iremericek/NetCore/NetCore.Business/obj/Debug/net8.0/NetCore.Business.AssemblyInfo.cs
+/Users/iremericek/NetCore/NetCore.Business/obj/Debug/net8.0/NetCore.Business.csproj.CoreCompileInputs.cache
+/Users/iremericek/NetCore/NetCore.Business/obj/Debug/net8.0/NetCore..B7EECDFD.Up2Date
+/Users/iremericek/NetCore/NetCore.Business/obj/Debug/net8.0/NetCore.Business.dll
+/Users/iremericek/NetCore/NetCore.Business/obj/Debug/net8.0/refint/NetCore.Business.dll
+/Users/iremericek/NetCore/NetCore.Business/obj/Debug/net8.0/NetCore.Business.pdb
+/Users/iremericek/NetCore/NetCore.Business/obj/Debug/net8.0/ref/NetCore.Business.dll
